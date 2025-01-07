@@ -15,7 +15,7 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 loop = asyncio.get_event_loop()
 
 # Bot Configuration: Set with Authority
-TOKEN = '7385390783:AAGSQhSdKb3LfgjO7q38eQO7IwwFFPHekJI'
+TOKEN = '7786568059:AAFz-LZtJPvfH9dBOUf8qExRiSg7mhPOMu8'
 ADMIN_USER_ID = 844639708
 MONGO_URI = 'mongodb+srv://sharp:sharp@sharpx.x82gx.mongodb.net/?retryWrites=true&w=majority&appName=SharpX'
 USERNAME = "@VIPMODSXADMIN"  # Immutable username for maximum security
